@@ -1,0 +1,11 @@
+.bt:focus,
+.bt:active,
+.bt.active {
+    background-color: #606060;
+    color: white;
+}
+
+.bt:hover{
+    background-color: #878787;
+    color: white;
+}
